@@ -1,0 +1,215 @@
+Producto,Calorias,Proteinas,Hidratos_Carbono,Azucares,Grasas,Grasas_Saturadas,Sal,Restaurante
+BigMac,503.0,26.0,42.0,8.5,25.0,9.7,2.2,Mcdonals
+McRoyal_Deluxe,530.0,29.0,33.0,6.9,31.0,12.0,2.0,Mcdonals
+McSpicy,591.0,27.0,51.0,6.0,30.0,18.0,3.4,Mcdonals
+Cuarto_de_Libra,521.0,32.0,37.0,9.5,27.0,14.0,2.6,Mcdonals
+McPollo,427.0,19.0,43.0,5.9,20.0,3.0,2.0,Mcdonals
+CBO,603.0,25.0,53.0,8.0,31.0,7.3,2.8,Mcdonals
+Signature_Queso_de_Cabra,732.0,32.0,55.0,18.0,42.0,17.0,2.1,Mcdonals
+Signature_Queso_de_Cabra_Doble,962.0,53.0,55.0,18.0,58.0,25.0,2.6,Mcdonals
+American_Style_Chicken_Buffalo,720.0,28.0,79.0,12.0,32.0,7.8,2.8,Mcdonals
+American_Style_Chicken_Honey_Mustard,811.0,31.0,81.0,13.0,40.0,8.4,2.9,Mcdonals
+Grand_McExtreme_Intense_Chedar,736.0,41.0,50.0,9.3,41.0,20.0,3.6,Mcdonals
+Grand_McExtreme_Intense_Chedar_Doble,966.0,62.0,50.0,9.3,58.0,28.0,4.0,Mcdonals
+Grand_McExtreme_Bacon,787.0,43.0,48.0,9.4,46.0,19.0,2.8,Mcdonals
+Grand_McExtreme_Bacon_Doble,951.0,59.0,44.0,8.6,59.0,25.0,3.0,Mcdonals
+Hamburguesa,253.0,13.0,30.0,6.4,8.5,3.4,1.2,Mcdonals
+Cheeseburguer,302.0,16.0,31.0,6.9,12.0,6.0,1.6,Mcdonals
+Doble_Cheeseburguer,446.0,26.0,32.0,7.4,23.0,12.0,2.4,Mcdonals
+Triple_Cheeseburguer,587.0,37.0,32.0,7.8,34.0,18.0,3.1,Mcdonals
+Chicken&Cheese,354.0,14.0,40.0,7.2,15.0,4.3,2.0,Mcdonals
+Chicken_Burguer_BBQ,304.0,12.0,39.0,6.7,11.0,1.7,1.5,Mcdonals
+Filete_de_Pescado,331.0,15.0,37.0,4.8,13.0,2.6,1.5,Mcdonals
+McFish,281.0,14.0,39.0,7.3,7.2,0.9,1.2,Mcdonals
+Chicken_Mayo,362.0,12.0,37.0,4.8,18.0,2.8,1.5,Mcdonals
+Doble_Chicken_Mayo,505.0,18.0,47.0,5.0,27.0,4.2,2.0,Mcdonals
+Triple_Chicken_Mayo,648.0,25.0,56.0,5.3,35.0,5.5,2.6,Mcdonals
+Long Vegetal,597.7,16.9,52.1,7.1,33.3,3.0,2.7,BurguerKing
+Queen Cheese ,801.9,45.4,46.7,11.4,47.6,25.4,4.2,BurguerKing
+Queen Cheese (2 carnes),1012.2,63.5,46.8,11.5,62.9,32.3,4.34,BurguerKing
+Queen Cheese doble crispy chicken,1062.9,49.6,74.1,12.7,61.5,27.1,5.69,BurguerKing
+Big King Vegetal,504.0,25.0,43.0,11.0,26.0,7.0,3.0,BurguerKing
+Whopper Vegetal,604.7,22.2,51.4,12.8,32.9,8.1,2.84,BurguerKing
+Whopper,640.3,26.7,51.3,12.8,32.6,8.7,2.3,BurguerKing
+Doble Cheese Bacon XXL,970.2,58.5,52.4,13.9,50.5,23.7,4.9,BurguerKing
+Big King XXL,994.4,53.7,53.5,13.6,55.0,23.1,4.5,BurguerKing
+Steakhouse,895.8,38.0,66.0,15.8,49.1,19.1,3.6,BurguerKing
+The King Bacon (2 carnes),1005.3,60.4,50.1,7.7,54.3,21.6,3.88,BurguerKing
+The King Huevo (2 carnes),1118.1,61.6,58.4,12.9,62.8,24.4,3.7,BurguerKing
+Doble Whopper,882.5,44.8,51.3,12.8,47.8,15.6,2.46,BurguerKing
+Big King,525.3,24.8,44.9,11.3,26.9,8.7,2.52,BurguerKing
+Doble Cheese Burger BBQ,417.1,24.1,32.2,8.7,20.9,9.8,2.3,BurguerKing
+Triple Whopper,1124.8,62.9,51.4,12.9,63.1,22.5,2.6,BurguerKing
+Cheeseburger,289.8,14.7,30.4,7.6,11.7,5.0,1.8,BurguerKing
+Doble Cheese Bacon,447.3,27.1,31.8,8.5,23.0,10.6,2.7,BurguerKing
+Burger,246.4,12.4,28.9,6.5,8.6,3.1,1.2,BurguerKing
+Chicken Tendercrisp,655.1,28.1,60.7,6.6,32.3,5.3,3.4,BurguerKing
+Long Chicken,605.6,25.0,47.9,6.2,34.2,4.8,3.2,BurguerKing
+Crispy Chicken,516.0,16.4,42.2,6.3,30.5,5.6,1.8,BurguerKing
+Chicken Wrap,533.8,19.3,45.8,3.2,29.6,9.4,2.0,BurguerKing
+CRUNCHWRAP SUPREME CARNE PICADA,617.0,27.6,59.5,4.7,32.5,13.7,2.4,TacoBell
+CRUNCHWRAP SUPREME POLLO ASADO,565.0,32.4,57.2,4.4,25.3,10.1,2.1,TacoBell
+CRUNCHWRAP SUPREME VEG,615.0,30.6,61.4,4.9,29.8,12.0,2.1,TacoBell
+CRUNCHWRAP SUPREME FRIJOLES,573.0,19.6,73.2,4.4,26.0,10.1,2.1,TacoBell
+QUESARITO CARNE PICADA,732.0,31.4,72.2,7.2,36.2,14.9,3.4,TacoBell
+QUESARITO POLLO ASADO,680.0,36.2,69.8,7.0,29.0,11.3,3.1,TacoBell
+QUESARITO VEG,730.0,34.4,74.0,7.4,33.5,13.2,3.1,TacoBell
+BURRITO SANTA MÓNICA CARNE PICADA,438.0,16.3,54.2,7.3,17.2,5.9,2.2,TacoBell
+BURRITO SANTA MÓNICA POLLO ASADO,639.0,20.5,92.8,12.1,22.1,6.9,3.3,TacoBell
+BURRITO SANTA MÓNICA VEG,666.0,28.5,78.5,8.6,26.5,10.0,3.7,TacoBell
+BACON QUESARITO POLLO ASADO,548.0,19.7,61.6,6.4,28.0,5.0,1.7,TacoBell
+BACON QUESARITO CARNE PICADA,546.0,22.6,63.4,6.6,25.0,3.3,1.4,TacoBell
+GRAN BURRITO CARNE PICADA,692.0,36.9,69.8,7.1,29.0,11.2,3.2,TacoBell
+GRAN BURRITO POLLO ASADO,742.0,31.2,72.2,7.3,36.2,14.8,3.3,TacoBell
+GRAN BURRITO VEG,688.0,32.2,69.6,3.9,30.4,11.9,3.8,TacoBell
+GRAN BURRITO FRIJOLES,636.0,37.0,67.2,3.6,23.2,8.3,3.4,TacoBell
+GRAN BURRITO ARROZ,688.0,32.2,69.6,3.9,30.4,11.9,3.8,TacoBell
+CHEESY BURRITO,588.0,20.7,75.2,3.6,22.7,8.1,3.0,TacoBell
+GRILLERS BARBACOA,394.0,11.0,46.0,6.0,7.0,5.0,2.0,TacoBell
+GRILLERS BARBACOA VEG,410.0,8.0,46.0,6.0,9.0,5.0,2.0,TacoBell
+GRILLERS BRAVA,463.0,10.0,44.0,6.0,12.0,6.0,3.0,TacoBell
+GRILLERS BRAVA VEG,631.0,13.0,85.0,9.0,14.0,6.0,3.0,TacoBell
+GRILLERS HABANERO,658.0,21.0,70.0,8.0,19.0,8.0,3.0,TacoBell
+GRILLERS HABANERO VEG,658.0,21.0,70.0,8.0,19.0,8.0,3.0,TacoBell
+QUESADILLA (SOLO QUESO),577.0,26.8,40.5,3.6,34.1,15.8,2.0,TacoBell
+QUESADILLA CARNE PICADA,634.0,34.9,42.7,3.8,35.2,15.0,2.8,TacoBell
+QUESADILLA POLLO ASADO,582.0,39.7,40.4,3.6,28.0,11.5,2.5,TacoBell
+QUESADILLA VEG,632.0,37.9,44.6,4.0,32.6,13.3,2.5,TacoBell
+KIDSADILLA FRIJOLES,589.0,26.9,56.4,3.6,28.7,11.5,2.5,TacoBell
+KIDSADILLA CARNE PICADA,263.0,16.9,14.7,0.5,14.8,8.2,1.4,TacoBell
+KIDSADILLA VEG,240.0,12.8,21.5,0.4,11.6,6.4,1.3,TacoBell
+KIDSADILLA POLLO ASADO,237.0,19.3,13.5,0.4,11.2,6.5,1.3,TacoBell
+KIDSADILLA JAMON,200.0,11.9,13.6,0.5,10.7,6.4,1.0,TacoBell
+KIDSADILLA QUESO,185.0,9.3,13.5,0.4,10.3,6.2,0.8,TacoBell
+NACHOS GRANDES,343.0,7.7,30.8,3.4,24.6,4.6,0.8,TacoBell
+NACHOS MEDIANOS,289.0,7.0,24.18,3.3,21.5,4.4,0.7,TacoBell
+NACHOS PEQUEÑOS,218.0,5.3,18.7,2.5,16.2,3.3,0.5,TacoBell
+NACHOS SUPREME,722.0,12.6,58.7,7.9,51.7,12.4,2.1,TacoBell
+NACHOS SUPREME CARNE PICADA,800.0,20.1,59.9,8.0,56.2,14.4,2.7,TacoBell
+NACHOS SUPREME VEG,797.0,23.0,61.8,8.2,53.5,12.7,2.4,TacoBell
+NACHOS SUPREME POLLO ASADO,774.0,22.5,58.7,7.9,52.6,12.7,2.6,TacoBell
+NACHOS SUPREME FRIJOLES,777.0,16.1,66.7,7.9,52.9,12.7,2.6,TacoBell
+NACHOS BELL GRANDE CARNE PICADA,796.0,25.6,72.9,5.1,48.6,11.2,2.7,TacoBell
+NACHOS BELL GRANDE POLLO ASADO,770.0,28.0,71.7,5.0,45.0,9.4,2.5,TacoBell
+NACHOS BELL GRANDE VEG,794.0,28.6,74.8,5.3,45.9,9.5,2.4,TacoBell
+NACHOS BELL CARNE PICADA,460.0,16.8,37.5,3.2,28.8,8.2,1.7,TacoBell
+NACHOS BELL POLLO ASADO,434.0,19.2,36.3,3.0,25.2,6.4,1.5,TacoBell
+NACHOS BELL VEG,458.0,19.8,39.3,3.4,26.2,6.4,1.4,TacoBell
+NACHOS FIRE,713.0,12.1,68.2,12.7,46.8,6.6,2.6,TacoBell
+CHICKEN NACHOS,306.0,14.7,15.9,1.8,21.0,6.1,1.1,TacoBell
+PATATAS MEXICAN MEDIANAS,235.0,3.8,30.1,0.9,11.3,1.9,1.1,TacoBell
+PATATAS MEXICAN GRANDES,362.0,5.8,46.3,1.5,17.4,2.9,1.7,TacoBell
+PATATAS MEXICAN PEQUEÑAS,233.0,,36.3,0.5,9.5,0.9,0.8,TacoBell
+BACON TOP FRIES,305.82,7.09,32.52,3.06,19.12,4.52,1.5,TacoBell
+MEXICAN TWISTS,173.0,1.7,24.1,5.2,8.1,0.6,0.5,TacoBell
+ENSALADA COMPLEMENTO,179.0,6.8,25.6,2.9,6.0,2.5,0.8,TacoBell
+ENSALADA DE POLLO,419.0,19.6,24.1,4.9,29.7,8.1,1.9,TacoBell
+CRUNCHY TACO SUPREME CARNE PICADA,221.0,10.7,11.2,1.6,15.6,6.8,0.8,TacoBell
+CRUNCHY TACO SUPREME POLLO ASADO,195.0,13.1,10.0,1.5,12.0,5.0,0.6,TacoBell
+CRUNCHY TACO SUPREME FRIJOLES,199.0,6.7,18.0,1.5,12.4,5.0,0.6,TacoBell
+CRUNCHY TACO CARNE PICADA,167.0,10.0,9.7,0.5,10.6,3.6,0.8,TacoBell
+CRUNCHY TACO VEG,165.0,13.0,11.5,0.7,7.9,1.9,0.5,TacoBell
+SOFT TACO SUPREME POLLO ASADO,248.0,12.3,16.8,1.9,15.3,7.9,1.0,TacoBell
+SOFT TACO SUPREME VEG,222.0,14.7,15.6,1.8,11.7,6.1,0.9,TacoBell
+SOFT TACO SUPREME FRIJOLES,246.0,15.2,18.6,2.1,12.6,6.2,0.8,TacoBell
+SOFT TACO SUPREME ARROZ,226.0,8.3,23.6,1.8,12.0,6.1,0.9,TacoBell
+SOFT TACO POLLO ASADO,194.0,11.6,15.2,0.8,10.2,4.7,1.0,TacoBell
+SOFT TACO VEG,168.0,14.0,14.0,0.6,6.6,3.0,0.9,TacoBell
+SOFT TACO FRIJOLES,192.0,14.6,17.1,1.0,7.5,3.0,0.7,TacoBell
+SOFT TACO ARROZ,172.0,7.6,22.0,0.6,7.0,3.0,0.9,TacoBell
+6 CRUNCHY TACOS VEG (UD),176.0,10.0,9.7,0.5,10.6,3.6,0.8,TacoBell
+6 CRUNCHY TACOS FRIJOLES (UD),165.0,13.0,11.5,0.7,7.9,1.9,0.5,TacoBell
+ICE CREAM TWISTS,173.0,1.7,24.1,1.5,8.1,0.6,0.3,TacoBell
+KIT KAT CHOCADILLA,189.0,3.6,24.7,8.7,8.3,4.5,0.4,TacoBell
+Kentucky Shake chocolate nata,335.3,4.69,32.55,27.8,6.08,4.33,0.39,KFC
+Kentucky Shake Oreo nata,379.4,4.69,41.12,34.92,6.08,4.33,0.42,KFC
+Kentucky Shake Fresa nata,295.9,4.69,35.55,30.69,6.08,4.33,0.39,KFC
+Kentucky Shake chocolate,241.7,4.69,28.98,24.23,6.08,4.33,0.39,KFC
+Kentucky Shake Oreo,285.8,4.69,37.55,31.35,6.08,4.33,0.42,KFC
+Kentucky Shake Fresa,202.3,4.69,31.98,27.12,6.08,4.33,0.39,KFC
+Cono KFC,167.87,3.88,22.56,14.82,4.27,2.98,0.18,KFC
+Gofre,400.5,5.36,48.15,21.6,20.25,10.44,1.08,KFC
+Gofre con chocolate y helado,627.8,6.06,72.46,40.58,25.57,11.32,1.29,KFC
+Sundae Caramelo,194.95,4.6,29.45,22.18,5.0,3.6,0.21,KFC
+Sundae Chocolate,214.4,5.62,23.67,18.5,9.76,4.66,0.21,KFC
+Sundae Frutas del Bosque,168.08,4.6,24.15,19.3,5.0,3.6,0.18,KFC
+KreamBall Oreo,432.22,8.64,50.23,41.55,13.95,8.96,0.35,KFC
+KreamBall Kit kat,415.95,9.67,39.23,31.97,14.65,6.02,0.29,KFC
+KreamBall Lacasitos y Caramelo,354.95,7.05,51.73,34.85,7.6,5.45,0.35,KFC
+Salsa Caesar,230.5,0.6,5.0,4.55,23.0,3.85,0.85,KFC
+Chick&Share( 9 tiras de pechuga CR),864.0,68.4,46.44,0.0,30.24,3.17,5.98,KFC
+Chick&Share( 9 tiras de pechuga OR),752.4,90.0,28.8,0.2,33.84,3.6,7.2,KFC
+Chick&Share( 9 tiras de pechuga Mixtas),814.4,78.0,38.6,0.0,31.84,3.36,6.52,KFC
+Chick&Share ( 12 Alitas_picantes),1071.84,52.08,43.01,0.0,75.6,20.83,5.04,KFC
+Chick&Share cruji (6 piezas_pollo),1830.6,144.41,70.51,0.0,107.8,21.7,10.17,KFC
+Chick&Share original (6 piezas_pollo),1402.62,116.4,52.38,0.0,81.48,23.28,9.82,KFC
+Chick&Share mixto (3cruji_3 original),1616.61,130.41,61.45,0.0,94.64,22.49,10.0,KFC
+Menu_2( 5 piezas de pollo OR_5 alitas picantes),1615.45,118.7,61.57,0.0,99.4,28.08,10.28,KFC
+Menu_2( 5 piezas de pollo cruji_5 alitas picantes),1972.1,142.05,76.68,0.0,121.34,26.76,10.58,KFC
+Menú para 2(12 tiras de pechuga CR),1152.0,91.2,61.92,0.0,40.32,4.22,7.97,KFC
+Menú para 2(12 tiras de pechuga OR),1003.2,120.0,38.4,0.0,45.12,4.8,9.6,KFC
+Menú para 2(12 tiras de pechuga mixtas),1077.6,105.6,50.16,0.0,42.72,4.51,8.78,KFC
+Menú para 2(10 tiras de pechuga CR),960.0,76.0,51.6,0.0,33.6,3.52,6.64,KFC
+Menú para 2(10 tiras de pechuga OR),836.0,100.0,32.0,0.0,37.6,4.0,8.0,KFC
+Menú para 2(10 tiras de pechuga Mixtas),898.0,88.0,41.8,0.0,35.6,3.76,7.32,KFC
+Bucket para 3 per.(9 piezas OR),2103.93,174.6,78.57,0.05,122.22,34.92,14.73,KFC
+Bucket_3(9 piezasCruji),2745.9,216.62,105.77,0.05,161.7,32.54,15.26,KFC
+Bucket_3(15 tiras de pechuga CR),1440.0,114.0,77.4,0.05,50.4,5.28,9.96,KFC
+Bucket_3(15 tiras de pechuga OR),1254.0,150.0,48.0,0.0,56.4,6.0,12.0,KFC
+Bucket_3(15 tiras de pechuga Mixtas),1353.2,130.8,63.68,0.0,53.2,5.62,10.91,KFC
+Bucket_4(12piezas OR),2805.24,232.8,104.76,0.0,162.96,46.56,19.64,KFC
+Bucket_4(12piezas cruji),3661.2,288.83,141.02,0.0,215.6,43.39,20.34,KFC
+Buckets_4(20 tiras de pechuga CR),384.0,30.4,20.64,0.0,13.44,1.41,2.66,KFC
+Buckets_4 (20 tiras de pechuga OR),1672.0,200.0,64.0,0.0,75.2,8.0,16.0,KFC
+Buckets_4(20 tiras de pechuga Mitas),1796.0,176.0,83.6,0.0,71.2,7.52,14.64,KFC
+The_box,838.6,36.42,86.38,25.5,34.58,5.87,4.0,KFC
+Superbox Double Krunch BBC ,1009.4,39.22,107.33,42.65,39.29,9.45,4.29,KFC
+Superbox Double Krunch ,991.86,36.29,114.03,39.77,36.45,9.44,3.69,KFC
+Superbox Twister ,1156.15,34.99,115.87,38.28,54.68,13.01,4.03,KFC
+Menú Superbucket,2296.94,107.74,177.35,9.55,108.7,13.64,11.4,KFC
+BBQ Bacon Cheese,525.27,35.41,44.46,4.79,17.35,5.25,3.84,KFC
+Doble BBQ Bacon Cheese burger,771.6,61.41,54.83,7.81,32.47,4.17,6.59,KFC
+Classic Burger,244.25,14.31,26.87,3.56,8.89,0.67,1.36,KFC
+Double Krunch,442.9,27.59,44.84,5.47,17.18,1.34,2.76,KFC
+Nueva Double Krunch BBC,460.44,30.53,38.14,8.35,20.01,1.35,3.36,KFC
+Original Double Cheese burger,474.28,31.14,46.4,5.95,17.54,2.02,2.59,KFC
+Kids burger,228.9,11.78,29.49,5.34,5.19,0.35,1.21,KFC
+Kids Mayo Burger,256.65,11.91,28.83,3.56,8.49,0.62,1.23,KFC
+Kids Cheese Burger,269.7,14.21,29.88,5.0,8.36,0.35,1.49,KFC
+Kids Mayo Wrap,302.05,11.06,29.34,3.08,13.95,2.25,1.61,KFC
+Kids Cheese Wrap,280.0,13.28,29.03,3.66,10.52,1.71,1.69,KFC
+Coronel Original Burger,477.79,31.15,46.53,6.04,17.87,2.05,2.61,KFC
+BBQ Cheese Burger,465.8,23.47,43.24,7.92,18.46,0.7,2.88,KFC
+Double Krunch BBQ Cheese,522.25,27.54,50.55,8.06,19.47,1.45,3.11,KFC
+La Pollizza,579.09,56.56,23.28,3.14,30.81,2.38,6.11,KFC
+Pepinera,573.15,33.32,46.01,6.22,27.79,2.66,3.82,KFC
+Ensalada Original,154.1,13.1,13.9,1.73,4.61,0.56,1.02,KFC
+Ensalada Emmental,350.82,12.7,36.3,1.73,15.25,5.92,1.26,KFC
+Twister bbc,530.33,30.68,47.65,5.14,22.66,3.11,3.64,KFC
+Twister,607.19,26.29,46.68,3.98,35.41,4.91,3.1,KFC
+2 tiras de pechuga CR,192.0,15.2,10.32,0.05,6.72,0.7,1.33,KFC
+2 tiras de pechuga OR,167.2,20.0,6.4,0.2,7.52,0.8,1.6,KFC
+3 tiras de pechuga CR,288.0,22.8,15.48,0.05,10.08,1.06,1.99,KFC
+3 tiras de pechuga OR,250.8,30.0,9.6,0.2,11.28,1.2,2.4,KFC
+5 tiras de pechuga CR,480.0,38.0,25.8,0.05,16.8,1.76,3.32,KFC
+5 tiras de pechuga OR,418.0,50.0,16.0,0.2,18.8,2.0,4.0,KFC
+1 pieza pollo OR,233.77,19.4,8.73,0.05,13.58,3.88,1.64,KFC
+2 piezas pollo OR,467.54,38.8,17.46,0.1,27.16,7.76,3.27,KFC
+3 piezas pollo OR,701.31,58.2,26.19,0.2,40.74,11.64,4.91,KFC
+1 pieza pollo cruji,305.1,24.07,11.75,0.3,17.97,3.62,1.7,KFC
+2 piezas pollo cruji,610.2,48.14,23.5,0.4,35.93,7.23,3.39,KFC
+3 piezas pollo cruji,915.3,72.21,35.26,0.5,53.9,10.85,5.09,KFC
+2 alitas picantes,178.64,8.68,7.17,0.5,12.6,3.47,0.84,KFC
+3 alitas picantes,267.96,13.02,10.75,0.5,18.9,5.21,1.26,KFC
+5 alitas picantes,446.6,21.7,17.92,0.6,31.5,8.68,2.1,KFC
+8 alitas picantes,714.56,34.72,28.67,0.7,50.4,13.89,3.36,KFC
+Box del día,941.86,36.29,102.16,23.42,34.31,6.12,3.79,KFC
+4 Emmental bites,390.0,14.0,31.0,0.0,23.0,9.7,1.5,KFC
+Patatas fritas pequeñas(72gr),207.36,3.1,27.29,0.0,9.86,0.94,0.35,KFC
+Patatas fritas medianas(92gr),264.96,3.96,34.87,0.05,12.6,1.2,0.44,KFC
+Patatas fritas grandes(127gr),365.76,5.46,48.13,0.0,17.4,1.65,0.61,KFC
+Patatas Rustic pequeñas(70 gr),188.3,2.1,24.5,0.0,8.33,0.7,0.63,KFC
+Patatas Rustic grandes (90 gr),242.1,2.7,31.5,0.0,10.71,0.9,0.81,KFC
+Kentucky Fries Cheese,624.1,22.62,62.38,0.0,33.59,6.74,3.22,KFC
+Kentucky Fries Bacon,568.1,9.06,66.94,0.0,25.87,3.94,3.12,KFC
+Kentucky Mayo Mex,665.3,8.98,59.54,0.0,40.19,5.62,2.65,KFC
